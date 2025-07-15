@@ -1,4 +1,5 @@
 British Airways Passenger Satisfaction Tableau Dashboard
+Click here to view the interactive dashboard: https://public.tableau.com/app/profile/naadia.ajmal7687/viz/Britishairwaysreview_17520803230110/Dashboard1
 
 Business Problem
 British Airways is seeking to enhance customer satisfaction and the perceived value for money across its global flight network. Drawing on passenger review data, this dashboard examines how traveller type, route, and region influence satisfaction highlighting opportunities for operational and service improvements.
