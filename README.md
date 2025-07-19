@@ -32,7 +32,7 @@ Dashboard Features
 * *PI Banner (Top):Shows overall average rating, value-for-money score, and cabin staff rating
 * *Top 5 Routes Bar Chart: Highlights variation in satisfaction across the most-reviewed routes
 * *Traveller Type Breakdown: Displays satisfaction levels by traveller category (Business, Economy, etc.)
-* *Region Based Chart:*Visualises satisfaction differences by passengers’ origin regions
+* *Region Based Chart: Visualises satisfaction differences by passengers’ origin regions
 
  Tools & Technologies
 
