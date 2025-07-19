@@ -1,38 +1,44 @@
 British Airways Passenger Satisfaction Tableau Dashboard
 Click here to view the interactive dashboard: https://public.tableau.com/app/profile/naadia.ajmal7687/viz/Britishairwaysreview_17520803230110/Dashboard1
 
-Business Problem
-British Airways is seeking to enhance customer satisfaction and the perceived value for money across its global flight network. Drawing on passenger review data, this dashboard examines how traveller type, route, and region influence satisfaction highlighting opportunities for operational and service improvements.
+British Airways is working to improve customer satisfaction and perceived value for money across its global flight network. This dashboard analyses passenger review data to understand how traveller type, route, and region affect satisfaction levels. The goal is to identify opportunities for operational and service improvements.
 
-Key Business Insights
-Business travellers report the highest average satisfaction
-Business class passengers consistently provide higher ratings across various review categories, particularly in cabin service and value for money.
+Key Business Questions
+How does traveller type impact overall satisfaction and value for money?
 
-Top 5 routes reveal significant variations in average ratings
-Routes such as London to New York receive stronger scores, while others show clear gaps suggesting that certain routes may benefit from targeted service enhancements.
+Which flight routes demonstrate the highest and lowest passenger satisfaction?
 
-Passenger satisfaction varies considerably by region
-Average ratings differ by origin region, with some areas consistently scoring lower. This indicates a need for localised quality assurance or better alignment with passenger expectations.
+Are there regional differences in passenger satisfaction that require targeted action?
 
-Recommendations for British Airways
-Improve service on underperforming routes
-Use passenger feedback from lower rated routes to identify common issues and implement specific improvements.
+Dashboard Features
+KPI Banner (Top): Shows overall average rating, value-for-money score, and cabin staff rating
 
-Strengthen the business traveller experience
-High satisfaction scores in this segment indicate strong perceived value. British Airways should maintain this and consider loyalty building initiatives.
+Top 5 Routes Bar Chart: Highlights variation in satisfaction across the most-reviewed routes
 
-Address regional satisfaction disparities
-Focus on consistently low scoring regions to understand root causes and ensure service standards are met globally.
+Traveller Type Breakdown: Displays satisfaction levels by traveller category (Business, Economy, etc.)
 
-Technologies Used
-Tableau Public – For interactive data visualisation and dashboard creation
-Excel – Used for initial data cleaning and formatting
-Kaggle Dataset – Source of cleaned and structured passenger review data
+Region Based Chart: Visualises satisfaction differences by passengers’ origin regions
 
- Dashboard Features
-KPI Banner (Top) Displays overall average rating, average value-for-money score, and cabin staff rating
-Top 5 Routes Bar Chart Highlights variations in average ratings for the most-reviewed routes
-Traveller Type Breakdown Shows satisfaction levels by traveller category (Business, Economy, etc.)
-Region Based Chart Visualises how ratings differ by passengers’ origin regions
+Key Insights
+Business travellers report the highest average satisfaction, especially in cabin service and value for money
+
+London to New York is among the top routes with strong ratings, while other routes reveal service gaps
+
+Passenger satisfaction varies by region, with some areas consistently scoring lower, indicating room for localised improvements
+
+Business Recommendations
+Improve Service on Underperforming Routes: Use feedback from lower-rated routes to identify common issues and implement targeted improvements
+
+Strengthen Business Traveller Experience: Maintain high satisfaction in this segment and explore loyalty initiatives
+
+Address Regional Disparities: Investigate and resolve causes of lower satisfaction in specific regions to ensure consistent service quality
+
+Tools & Technologies
+Tableau Public – for interactive visualisation and dashboard creation
+
+Excel – used for initial data cleaning and formatting
+
+Kaggle Dataset – source of cleaned and structured passenger review data
+
 
 
